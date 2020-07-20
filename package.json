@@ -1,0 +1,19 @@
+{
+  "name": "mochatime",
+  "version": "1.0.0",
+  "description": "Remember to run `npm install mocha` and `npm init`",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glitchgirl/mochatime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glitchgirl/mochatime/issues"
+  },
+  "homepage": "https://github.com/glitchgirl/mochatime#readme"
+}
